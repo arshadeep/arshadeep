@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arshadeep
-- 👀 I’m interested in making my life easir hence i am interested in coding
+- 👀 I'm trying to make my life easier through code.
 -As a side gig i make music.
 
